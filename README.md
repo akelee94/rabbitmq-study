@@ -52,11 +52,9 @@ https://www.phpassn.com
 
 最简单最易入门的Rabbitmq-PHP入门教程
 ===================
-1.[01-最适合入门的RabbitMQ+PHP教程（一）windows环境下安装rabbitmq](https://www.phpassn.com/article/97.html)
-
-2.[02-最适合入门的RabbitMQ+PHP教程（二）windows安装PHP扩展amqp](https://www.phpassn.com/article/98.html)
-
-3.[03-最适合入门的RabbitMQ+PHP教程（三）消息队列简单使用](https://www.phpassn.com/article/99.html)
+1. [01-最适合入门的RabbitMQ+PHP教程（一）windows环境下安装rabbitmq](https://www.phpassn.com/article/97.html) 
+2. [02-最适合入门的RabbitMQ+PHP教程（二）windows安装PHP扩展amqp](https://www.phpassn.com/article/98.html) 
+3. [03-最适合入门的RabbitMQ+PHP教程（三）消息队列简单使用](https://www.phpassn.com/article/99.html) 
 
 
 
