@@ -59,3 +59,7 @@
 
 4.查看RabbitMQ有哪些队列以及它们中有多少消息，使用命令行:
     `rabbitmqctl.bat list_queues`
+
+代码目录：同级目录下面的rabbitmq_test/send.php receive.php
+
+原文链接：[https://www.phpassn.com/article/99.html](https://www.phpassn.com/article/99.html)
