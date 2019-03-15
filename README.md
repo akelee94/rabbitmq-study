@@ -3,7 +3,7 @@ rabbitmq-PHP入门教程及文档
 
 ![photo.png](https://image.phpassn.com/upload/Assn02/42/a8/2018-10-16_609e521312c6a793d2a50924d363d9cf)
 
-几个概念说明：
+>几个概念说明：
 Broker：简单来说就是消息队列服务器实体。
 Exchange：消息交换机，它指定消息按什么规则，路由到哪个队列。
 Queue：消息队列载体，每个消息都会被投入到一个或多个队列。
