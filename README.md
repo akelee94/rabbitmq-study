@@ -42,7 +42,7 @@ ps:通过durable参数来进行exchang、queue、消息持久化
 https://github.com/orchid-lyy/rabbitmq-study
 
 ##作者
-Jooney（ID: 82年的烂香蕉） 
+Jonny（ID: 82年的烂香蕉） 
 
 ##联系方式
 lw1772363381@163.com (Jonny)
