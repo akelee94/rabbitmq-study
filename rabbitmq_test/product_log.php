@@ -93,11 +93,11 @@ class SendMessage {
     {
         $msessage = implode(' ', array_slice($argv, 1));
         if (empty($msessage)) {
-            $msessage = "info: Hello phpassn!'\n";
+            $msessage = "message: Hello phpassn!'\n  蜗牛巢社区高质量文章";
         }
         $amqp_message = new AMQPMessage($msessage);
         $this->amqp_channel->basic_publish($amqp_message,$exchange_name);
-        echo "Send 'Hello phpassn!'\n";
+        echo "Send 'Hello phpassn!'\n 蜗牛巢社区高质量文章";
     } 
 
     /**
