@@ -71,8 +71,8 @@ class SendMessage {
      * @param $queue_name 队列名称
      * @param $passive 是否被动处理
      * @param $durable 是否持久化
-     * @param $exclusive 是否唯一 
-     * @param $auto_delete 是否自动删除
+     * @param $exclusive 当前连接不在时，是否自动删除队列
+     * @param $auto_delete 没有consumer时，是否自动删除队列 
      * @param $nowait 是否不需要等待
      * @return void
      */

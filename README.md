@@ -56,6 +56,5 @@ https://www.phpassn.com
 2. [02-最适合入门的RabbitMQ+PHP教程（二）windows安装PHP扩展amqp](https://www.phpassn.com/article/98.html) 
 3. [03-最适合入门的RabbitMQ+PHP教程（三）消息队列简单使用](https://www.phpassn.com/article/99.html) 
 4. [04-最适合入门的RabbitMQ+PHP教程（四）发布与订阅](https://www.phpassn.com/article/101.html) 
-
-
+5. [05-最适合入门的RabbitMQ+PHP教程（五）交换机类型](https://www.phpassn.com/article/102.html) 
 

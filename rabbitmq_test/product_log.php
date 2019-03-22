@@ -71,8 +71,8 @@ class SendMessage {
      * @param $exchange_name 交换机名称名称
      * @param $type 类型 此类型有多种 例如：direct，topic，headers， fanout这几种类型 后面一一解析
      * @param $passive 是否被动触发
-     * @param $durable 是否持久换
-     * @param $auto_delete 是否自动删除
+     * @param $durable 交换机将在服务器重启后生存
+     * @param $auto_delete 通道关闭的时候，是否自动删除交换机
      * @return void
      */
     public function exchangeDeclare($exchange_name = '',$type = '',$passive = false,$durable = false,$auto_delete = false)
