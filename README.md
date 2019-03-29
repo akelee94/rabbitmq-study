@@ -39,7 +39,7 @@ Channel：消息通道，在客户端的每个连接里，可建立多个channel
 ps:通过durable参数来进行exchang、queue、消息持久化
 
 本教程永久github地址。
-https://github.com/orchid-lyy/rabbitmq-study
+https://gitee.com/jonny-li/rabbitmq-study
 
 ##作者
 Jonny（ID: 82年的烂香蕉） 
@@ -50,11 +50,17 @@ lw1772363381@163.com (Jonny)
 ##蜗牛巢社区
 https://www.phpassn.com
 
+### github仓库
+https://github.com/orchid-lyy/rabbitmq-study
+
+### 码云仓库
+https://gitee.com/jonny-li/rabbitmq-study
+
 最简单最易入门的Rabbitmq-PHP入门教程
 ===================
 1. [01-最适合入门的RabbitMQ+PHP教程（一）windows环境下安装rabbitmq](https://www.phpassn.com/article/97.html) 
 2. [02-最适合入门的RabbitMQ+PHP教程（二）windows安装PHP扩展amqp](https://www.phpassn.com/article/98.html) 
 3. [03-最适合入门的RabbitMQ+PHP教程（三）消息队列简单使用](https://www.phpassn.com/article/99.html) 
 4. [04-最适合入门的RabbitMQ+PHP教程（四）发布与订阅](https://www.phpassn.com/article/101.html) 
-5. [05-最适合入门的RabbitMQ+PHP教程（五）交换机类型](https://www.phpassn.com/article/102.html) 
-
+5. [05-最适合入门的RabbitMQ+PHP教程（五）交换机类型](https://www.phpassn.com/article/102.html)  
+6. [06-最适合入门的RabbitMQ+PHP教程（六）Topic exchange（主题交换机）使用](https://www.phpassn.com/article/108.html) 
