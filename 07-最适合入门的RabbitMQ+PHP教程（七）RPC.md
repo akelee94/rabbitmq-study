@@ -65,7 +65,7 @@ RabbitMQ 已在标准端口（5672）上的localhost上安装并运行。如果�
 }
 ```
 完整代码 
-RPC客户端代码：[https://www.phpassn.com/article/108.html](https://www.phpassn.com/article/108.html)
+RPC客户端代码：[https://github.com/orchid-lyy/rabbitmq-study/blob/master/rabbitmq_test/RPC/rpc_client.php](https://github.com/orchid-lyy/rabbitmq-study/blob/master/rabbitmq_test/RPC/rpc_client.php)
 
 ### RPC Service code (服务端代码)
 1. 配置连接工厂
@@ -105,7 +105,7 @@ RPC客户端代码：[https://www.phpassn.com/article/108.html](https://www.phpa
 }
 ```
 完整代码 
-RPC服务端代码: [https://www.phpassn.com/article/108.html](https://www.phpassn.com/article/108.html)
+RPC服务端代码: [https://github.com/orchid-lyy/rabbitmq-study/blob/master/rabbitmq_test/RPC/rpc_server.php](https://github.com/orchid-lyy/rabbitmq-study/blob/master/rabbitmq_test/RPC/rpc_server.php)
 
 ### 测试结果
 ![最适合入门的RabbitMQ+PHP教程（七）RPC -- 蜗牛巢](https://image.phpassn.com/upload/Assn02/25/t4/2019-04-07_11815239d72d93badd2f7fb5aa2084f6)

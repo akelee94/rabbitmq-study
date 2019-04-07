@@ -64,3 +64,4 @@ https://gitee.com/jonny-li/rabbitmq-study
 4. [04-最适合入门的RabbitMQ+PHP教程（四）发布与订阅](https://www.phpassn.com/article/101.html) 
 5. [05-最适合入门的RabbitMQ+PHP教程（五）交换机类型](https://www.phpassn.com/article/102.html)  
 6. [06-最适合入门的RabbitMQ+PHP教程（六）Topic exchange（主题交换机）使用](https://www.phpassn.com/article/108.html) 
+7. [07-最适合入门的RabbitMQ+PHP教程（七）RPC](https://www.phpassn.com/article/112.html) 
