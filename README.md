@@ -65,3 +65,4 @@ https://gitee.com/jonny-li/rabbitmq-study
 5. [05-最适合入门的RabbitMQ+PHP教程（五）交换机类型](https://www.phpassn.com/article/102.html)  
 6. [06-最适合入门的RabbitMQ+PHP教程（六）Topic exchange（主题交换机）使用](https://www.phpassn.com/article/108.html) 
 7. [07-最适合入门的RabbitMQ+PHP教程（七）RPC](https://www.phpassn.com/article/112.html) 
+8. [最适合入门的RabbitMQ+PHP教程（八）延迟队列](https://www.phpassn.com/article/118.html) 
