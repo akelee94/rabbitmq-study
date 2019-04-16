@@ -79,7 +79,7 @@ public function sendMessage($message = '')
     }
 }
 ```
-源文件：[send.php](https://gitee.com/jonny-li/rabbitmq-study/blob/master/rabbitmq_test/delay-queue/message-ttl/send.php)
+源文件：[send.php](https://github.com/orchid-lyy/rabbitmq-study/blob/master/rabbitmq_test/delay-queue/message-ttl/send.php)
 
 ### 接收消息代码（receive）
 ```
@@ -106,7 +106,7 @@ public function receiveMessage()
     }
 }
 ```
-源文件：[receive.php](https://gitee.com/jonny-li/rabbitmq-study/blob/master/rabbitmq_test/delay-queue/message-ttl/receive.php)
+源文件：[receive.php](https://github.com/orchid-lyy/rabbitmq-study/blob/master/rabbitmq_test/delay-queue/message-ttl/receive.php)
 
 总结：基于Rabbitmq实现定时任务，就是将消息设置一个过期时间，放入一个没有读取的队列中，让消息过期后自动转入另外一个队列中，监控这个队列消息的监听处来处理定时任务具体的操作.
 
