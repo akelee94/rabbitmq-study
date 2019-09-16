@@ -54,7 +54,7 @@ https://www.phpassn.com
 https://github.com/82nlxj/rabbitmq-study
 
 ### 码云仓库
-https://gitee.com/82nlxj/rabbitmq-study
+https://gitee.com/jonny-li/rabbitmq-study
 
 最简单最易入门的Rabbitmq-PHP入门教程
 ===================
