@@ -39,7 +39,7 @@ Channel：消息通道，在客户端的每个连接里，可建立多个channel
 ps:通过durable参数来进行exchang、queue、消息持久化
 
 本教程永久github地址。
-https://gitee.com/jonny-li/rabbitmq-study
+https://gitee.com/82nlxj/rabbitmq-study
 
 ##作者
 Jonny（ID: 82年的烂香蕉） 
@@ -51,10 +51,10 @@ lw1772363381@163.com (Jonny)
 https://www.phpassn.com
 
 ### github仓库
-https://github.com/orchid-lyy/rabbitmq-study
+https://github.com/82nlxj/rabbitmq-study
 
 ### 码云仓库
-https://gitee.com/jonny-li/rabbitmq-study
+https://gitee.com/82nlxj/rabbitmq-study
 
 最简单最易入门的Rabbitmq-PHP入门教程
 ===================
