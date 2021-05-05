@@ -47,9 +47,6 @@ Jonny（ID: 82年的烂香蕉）
 ##联系方式
 lw1772363381@163.com (Jonny)
 
-##蜗牛巢社区
-https://www.phpassn.com
-
 ### github仓库
 https://github.com/82nlxj/rabbitmq-study
 
